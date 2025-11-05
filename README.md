@@ -1,4 +1,4 @@
-# Lab 1: Code Critique Program with LLMs
+# Code Critique Program with LLMs
 
 ## Objective
 
